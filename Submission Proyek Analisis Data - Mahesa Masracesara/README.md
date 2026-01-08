@@ -74,7 +74,7 @@ Dataset yang digunakan adalah **Bike Sharing Dataset** yang berisi informasi pen
 - **Streamlit** - Framework untuk membuat dashboard interaktif
 - **Pandas** - Manipulasi dan analisis data
 - **Matplotlib/Seaborn** - Visualisasi data
-- **Jupyter Notebook** - Eksplorasi dan analisis data
+- **Jupyter Notebook** - Media untuk eksplorasi dan analisis data
 
 ---
 
@@ -96,3 +96,4 @@ Proyek ini dibuat sebagai bagian dari submission analisis data bike sharing.
 ## 📄 License
 
 Project ini dibuat untuk keperluan pembelajaran dan analisis data.
+
