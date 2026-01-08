@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import os
+
 
 # Konfigurasi halaman
 st.set_page_config(
@@ -108,4 +110,5 @@ sns.barplot(
     ax=ax3
 )
 st.pyplot(fig3)
+
 
